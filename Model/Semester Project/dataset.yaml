@@ -1,0 +1,15 @@
+# dataset.yaml
+
+# Paths to training and validation images
+train: data/images/train  # Path to your training images
+val: data/images/val         # Path to validation images (can be an empty folder)
+
+# Number of classes and their names
+nc: 6  # Number of classes
+names: 
+  0: 'human'   # Class ID 0
+  1: 'human'   # Class ID 1
+  2: 'human'   # Class ID 2
+  3: 'human'   # Class ID 3
+  4: 'human'      # Class ID 4
+  5: 'human'     # Class ID 5

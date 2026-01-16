@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Human']
+
+roboflow:
+  workspace: bharadwaj-k4l52
+  project: my-first-project-gggwl
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bharadwaj-k4l52/my-first-project-gggwl/dataset/6
