@@ -197,10 +197,4 @@ Model achieves optimal performance at confidence threshold **0.548** with balanc
 
 Email: cheppash2@gmail.com
 
-## License
 
-[Add your license here]
-
-## Acknowledgments
-
-[Add acknowledgments here]
